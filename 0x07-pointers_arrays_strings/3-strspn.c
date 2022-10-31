@@ -22,4 +22,4 @@ unsigned int _strspn(char *s, char *accept)
 		accept = t;
 	}
 	return (c);
-}			
+}
