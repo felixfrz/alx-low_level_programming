@@ -29,4 +29,4 @@ char *_strstr(char *haystack, char *needle)
 		haystack = result;
 	}
 	return (0);
-}		
+}
